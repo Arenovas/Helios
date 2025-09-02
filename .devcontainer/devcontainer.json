@@ -1,0 +1,10 @@
+{
+  "name": "My Project (extends codespaces-pebble)",
+  "extends": "./upstream/.devcontainer/devcontainer.json",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "customizations": {
+    "codespaces": {
+      "openFiles": []
+    }
+  }
+}
